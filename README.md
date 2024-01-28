@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Hadoop**
 
-- 📫 How to reach me **vmuruga7@asu.edu**
+- 📫 How to reach me **vishalmuru99@gmail.com**
 
 - 📄 Know about my experiences in my [resume](https://drive.google.com/drive/my-drive)
 
